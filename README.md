@@ -1,17 +1,11 @@
-<p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
-</p>
-
-## Open-wc Starter App
-
-[![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
+# HERE Maps API using Lit for Web Components and TypeScript
 
 ## Quickstart
 
-To get started:
+To get started, clone the repository and run
 
 ```sh
-npm init @open-wc
+npm run start
 # requires node 10 & npm 6 or higher
 ```
 
@@ -26,5 +20,4 @@ npm init @open-wc
 ## Tooling configs
 
 For most of the tools, the configuration is in the `package.json` to reduce the amount of files in your project.
-
 If you customize the configuration a lot, you can consider moving them to individual files.
